@@ -9,13 +9,11 @@ Automatic detection and classification of rice leaf diseases Pretrained deep lea
 # Installation
 Clone the repository git clone https://github.com/kavinkunarkavin/rice-leaf-disease-detection.git
 
-Install the required dependencies: pip install -r requirements.txt
+Install the required dependencies.
 
-Configure AWS S3 credentials: Open config.py file and enter your AWS S3 credentials.
+Start the backend server: python backend.py
 
-Start the backend server: python predict.py
-
-Launch the frontend application: Open the frontend directory. Run the PyQT applicatation python frontend.py
+Launch the frontend application: O Run the PyQT applicatation python frontend.py
 
 # USAGE
 Open the frontend application. Capture or upload an image of a rice leaf. Click the "Predict" button to initiate disease detection. View the predicted class and confidence score for the detected disease.
