@@ -50,6 +50,6 @@ This project is not liensed(open source code)
 Special thanks to the developers and contributors of FastAPI, TensorFlow, and PyQT for their invaluable libraries and tools.
 
 # Contact
-For any inquiries or questions, please contact kavin11kkk11@gmail.com.
+For any inquiries or questions, please contact kavin11kk11@gmail.com.
 
 Please note that this project is not actively maintained, but your feedback is still highly appreciated.
