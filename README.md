@@ -15,7 +15,7 @@ Start the backend server: python backend.py
 
 Launch the frontend application: Run the PyQT applicatation python frontend.py
 
-## USAGE
+## Usage
 Open the frontend application. Capture or upload an image of a rice leaf. Click the "Predict" button to initiate disease detection. View the predicted class and confidence score for the detected disease.
 
 ## Dataset Link:
