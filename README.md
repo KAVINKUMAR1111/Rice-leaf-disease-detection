@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/shayanriyaz/riceleafs.
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
 
 ## License
-This project is not licensed(open source code)
+This project is not licensed(open source code).
 
 ## Contact
 For any inquiries or questions, please contact kavin11112003@gmail.com.
