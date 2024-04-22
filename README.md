@@ -8,8 +8,8 @@ Automatic detection and classification of rice leaf diseases Pretrained deep lea
 
 ## Installation
 1. Clone the repository:
- ```bash
-git clone https://github.com/kavinkunarkavin/rice-leaf-disease-detection.git
+   ```bash
+   git clone https://github.com/kavinkunarkavin/rice-leaf-disease-detection.git
 2. Install the required dependencies.
 3. Start the backend server: python backend.py.
 4. Launch the frontend application: Run the PyQT applicatation python frontend.py.
