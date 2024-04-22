@@ -7,12 +7,11 @@ This project provides a solution for automated detection and classification of d
 Automatic detection and classification of rice leaf diseases Pretrained deep learning model for accurate predictions User-friendly frontend using PyQT for capturing and uploading leaf images Real-time disease predictions with confidence scores.
 
 ## Installation
-Clone the repository git clone https://github.com/kavinkunarkavin/rice-leaf-disease-detection.git
-
+Clone the repository:
+ ```bash
+git clone https://github.com/kavinkunarkavin/rice-leaf-disease-detection.git
 Install the required dependencies.
-
 Start the backend server: python backend.py.
-
 Launch the frontend application: Run the PyQT applicatation python frontend.py.
 
 ## Usage
