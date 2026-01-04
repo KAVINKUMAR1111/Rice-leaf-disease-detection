@@ -16,7 +16,7 @@ class MainWindow(QMainWindow):
         self.image_label.setMaximumSize(500, 500)
         file_hbox = QHBoxLayout()
         self.file_edit = QLineEdit()
-        self.file_edit.setPlaceholderText("Select an image file")
+        self.file_edit.setPlaceholderText("Select an image ")
         self.file_edit.setReadOnly(True)
         file_hbox.addWidget(self.file_edit)
         file_button = QPushButton("Browse")
@@ -71,4 +71,5 @@ if __name__ == "__main__":
     app = QApplication([])
     dialog = MainWindow()
     dialog.show()
+
     app.exec_()
